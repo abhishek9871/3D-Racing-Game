@@ -1,0 +1,5 @@
+{
+  "name": "3D Simple Racing Game",
+  "description": "A minimalistic 3D racing game built with React, Three.js, and Tailwind CSS. Compete against AI opponents on a closed circuit, master the controls, and race to the finish line.",
+  "requestFramePermissions": []
+}
